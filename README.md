@@ -5,4 +5,4 @@
 </a>&nbsp;
   <a href="https://www.instagram.com/realcaganaytac"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 
-<a href="https://github.com/caganaytac"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caganaytac&bg_color=0g1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
+<a href="https://github.com/caganaytac"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caganaytac&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
